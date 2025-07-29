@@ -2,159 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zackwoon.github.io/</loc>
+    <loc>https://Boriswoon.github.io/</loc>
     <lastmod>2025-06-25T17:18:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://zackwoon.github.io/es/"
+                href="https://Boriswoon.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://zackwoon.github.io/ar/"
+                href="https://Boriswoon.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zackwoon.github.io/"
+                href="https://Boriswoon.github.io/"
                 />
   </url><url>
-    <loc>https://zackwoon.github.io/post/</loc>
-    <lastmod>2025-06-25T17:18:44+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://zackwoon.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zackwoon.github.io/post/"
-                />
-  </url><url>
-    <loc>https://zackwoon.github.io/p/vtest/</loc>
+    <loc>https://Boriswoon.github.io/post/</loc>
     <lastmod>2025-06-25T17:18:44+08:00</lastmod>
   </url><url>
-    <loc>https://zackwoon.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zackwoon.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://zackwoon.github.io/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zackwoon.github.io/categories/"
-                />
+    <loc>https://Boriswoon.github.io/p/vtest/</loc>
+    <lastmod>2025-06-25T17:18:44+08:00</lastmod>
   </url><url>
-    <loc>https://zackwoon.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/archives/</loc>
+    <loc>https://Boriswoon.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zackwoon.github.io/page/</loc>
+    <loc>https://Boriswoon.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zackwoon.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://Boriswoon.github.io/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zackwoon.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://Boriswoon.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://zackwoon.github.io/es/tags/"
+                href="https://Boriswoon.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://zackwoon.github.io/ar/tags/"
+                href="https://Boriswoon.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zackwoon.github.io/tags/"
+                href="https://Boriswoon.github.io/categories/"
                 />
   </url><url>
-    <loc>https://zackwoon.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://Boriswoon.github.io/links/</loc>
   </url><url>
-    <loc>https://zackwoon.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://Boriswoon.github.io/search/</loc>
   </url><url>
-    <loc>https://zackwoon.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/p/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://Boriswoon.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://Boriswoon.github.io/es/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://zackwoon.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://Boriswoon.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zackwoon.github.io/p/placeholder-text/"
+                href="https://Boriswoon.github.io/tags/"
                 />
   </url><url>
-    <loc>https://zackwoon.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zackwoon.github.io/_index.zh-cn/</loc>
-  </url><url>
-    <loc>https://zackwoon.github.io/links/</loc>
-  </url><url>
-    <loc>https://zackwoon.github.io/search/</loc>
+    <loc>https://Boriswoon.github.io/categories/test/</loc>
   </url>
 </urlset>
